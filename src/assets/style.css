@@ -1,0 +1,17 @@
+.altoPrecio{
+	color: seagreen;
+	font-size: 18px;
+
+}
+
+.fondoRojo{
+	background: orangered;
+}
+
+.subrayado{
+	text-decoration: underline;
+}
+
+.active{
+	border: 3px solid palevioletred;
+}
